@@ -1,0 +1,16 @@
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #3616DCFF;
+--themeColor2: #00395FFF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/wHXk8wu.gif');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/AijE2vn.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 1;
+}
